@@ -1,7 +1,7 @@
 {
   "name": "dev.hai-vr.icongen-thumbnail",
   "displayName": "Haï ~ IconGen Thumbnail",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "unity": "2019.4",
   "description": "IconGen Thumbnail https://docs.hai-vr.dev/docs/products/icongen",
   "vrchatVersion" : "2022.1.1",
@@ -10,6 +10,9 @@
   },
   "vpmDependencies": {
     "dev.hai-vr.resilience.toolkit" : "1.0.x"
+  },
+  "legacyFiles" : {
+    "Assets\\Hai\\IconGen\\Scripts\\Editor\\IconGenThumbnailEditorWindow.cs" : "928e8bce5b7035a4cbbc3e1fe8ce0281"
   },
   "url" : "https://docs.hai-vr.dev/docs/products/icongen"
 }
